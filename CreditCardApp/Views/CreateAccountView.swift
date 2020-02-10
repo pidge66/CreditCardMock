@@ -2,7 +2,7 @@
 //  CreateAccountView.swift
 //  FinancialApp
 //
-//  Created by Craig Clayton on 12/28/19.
+//  Created by Craig Clayton/David Hou on 12/28/19.
 //  Copyright © 2019 Cocoa Academy. All rights reserved.
 //
 
